@@ -17,10 +17,10 @@ I like creating stuff—websites, projects, tiny ideas that somehow turn into bi
 </a>
 </p>
 
-<h3 align="left">Languages and Tools:</h3>
+<h3 align="left">Skills:</h3>
 
 <!-- 🌸 FRONTEND -->
-<h4>🎨 Frontend</h4>
+<h4>Frontend</h4>
 <p align="left">
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" width="40" height="40"/>
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" width="40" height="40"/>
@@ -32,7 +32,7 @@ I like creating stuff—websites, projects, tiny ideas that somehow turn into bi
 </p>
 
 <!-- 🔧 BACKEND -->
-<h4>⚙️ Backend</h4>
+<h4>Backend</h4>
 <p align="left">
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" width="40" height="40"/>
   <img src="https://cdn.worldvectorlogo.com/logos/django.svg" width="40" height="40"/>
@@ -41,7 +41,7 @@ I like creating stuff—websites, projects, tiny ideas that somehow turn into bi
 </p>
 
 <!-- 🗄️ DATABASES -->
-<h4>🗄️ Databases</h4>
+<h4>Databases</h4>
 <p align="left">
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" width="40" height="40"/>
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original-wordmark.svg" width="40" height="40"/>
@@ -50,7 +50,7 @@ I like creating stuff—websites, projects, tiny ideas that somehow turn into bi
 </p>
 
 <!-- 🛠️ TOOLS -->
-<h4>🛠️ Tools & Others</h4>
+<h4>Tools & Others</h4>
 <p align="left">
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/pandas/pandas-original.svg" width="40" height="40"/>
   <img src="https://www.vectorlogo.zone/logos/opencv/opencv-icon.svg" width="40" height="40"/>
