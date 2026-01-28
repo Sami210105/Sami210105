@@ -47,4 +47,4 @@ I like creating stuff—websites, projects, tiny ideas that somehow turn into bi
   <img src="https://www.vectorlogo.zone/logos/figma/figma-icon.svg" width="40" height="40"/>
 </p>
 
--Collaborate with me - samidhadd21@gmail.com
+Collaborate with me - samidhadd21@gmail.com
