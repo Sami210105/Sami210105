@@ -4,19 +4,6 @@ A computer engineering student who’s lowkey in love with art, tech, space, and
 I like creating stuff—websites, projects, tiny ideas that somehow turn into big ones—mostly because computers are the only creatures on this planet that actually listen to me.
 </h5>
 
-- I’m currently working on **my portfolio website.**
-- Reach me at **samidhadd21@gmail.com**
-
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-<a href="https://www.linkedin.com/in/samidha-dhawale-4713b9286/" target="blank">
-  <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" height="30" width="40" />
-</a>
-<a href="https://leetcode.com/u/samidha_dhawale_21/" target="blank">
-  <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" height="30" width="40" />
-</a>
-</p>
-
 <h3 align="left">Skills:</h3>
 
 <!-- Languages -->
@@ -59,3 +46,5 @@ I like creating stuff—websites, projects, tiny ideas that somehow turn into bi
   <img src="https://www.vectorlogo.zone/logos/framer/framer-icon.svg" width="40" height="40"/>
   <img src="https://www.vectorlogo.zone/logos/figma/figma-icon.svg" width="40" height="40"/>
 </p>
+
+-Collaborate with me - samidhadd21@gmail.com
