@@ -1,7 +1,7 @@
 <h1 align="center">Hellowww... I am Samidha </h1>
 <h5 align="center">
 A computer engineering student who’s lowkey in love with art, tech, space, and the whole idea of building things that actually work. 
-I like creating stuff—websites, projects, tiny ideas that somehow turn into big ones—mostly because computers are the only creatures on this planet that actually listen to me.
+I like creating or coding stuff like websites, projects, tiny ideas mostly because computers are the only creatures on this planet that actually listen to me.
 </h5>
 
 <h3 align="left">Skills:</h3>
